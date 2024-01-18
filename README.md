@@ -1,3 +1,11 @@
 # Machine-Learning-Pipelines-with-Azure-ML-Studio
 [Coursera EUZQJWXTZXNZ.pdf](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/files/13920662/Coursera.EUZQJWXTZXNZ.pdf)
 ![ml pipeline](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/83b1d92b-aebe-4079-92db-d4c158c77cfa)
+![res1](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/c52ce0de-2dfd-4d8d-bfc7-b445ab0b92d5)
+![res2](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/70c24d31-67da-4c59-823d-fd290f6e6fba)
+![env](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/27195899-29da-4e39-a495-566447531ec5)
+![prediction](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/ce6f14b4-c3d3-4854-9213-66251aa98271)
+![webser](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/ada2decf-a408-49e6-9053-3a9b87462408)
+![pred](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/e0956d68-1594-4b30-8858-47bae5ab23f8)
+![ml test](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/93573c4d-80ab-4c55-9cdb-4e9ccb3f8078)
+![comp](https://github.com/ShivamDwivediIITG/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/142148841/5ba8a192-9ef8-4b39-9ebc-eb85335dcf47)
